@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hola soy Zasmi23, tambien me llaman Zashiel 👋
 
-<!--
-**Zasmi23/Zasmi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando y estudiando en la Escuela Superior de Computo del IPN.
+
+- 🌱 Estoy aprendiendo las herramientas basicas en la ESCOM, en Ingieneria en Sistemas Computacionales, tambien trabajo en un Manual de java hasta freameworks para hispanohablantes.
+  
+- 👯 He colaborado en proyecto como la creacion de una API Rest y hoy en dia en un Overlay en JS para hacer accesible una pagina web para las personas con problemas visuales.
+  
+- 💬 Soy una persona apasionada y curioso, me gusta entender la estructuras de la programacion, vamos, preguntame sobre estos temas seguro te interesara.
+  
+- 📫 zasmialba@gmail.com
+  
+- 😄 Pronombre: Él
+  
+
